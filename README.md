@@ -6,4 +6,4 @@ Assuming if the user has two coordinates. Let's just say point A has coordinates
 
 The program will take those numbers, and seperate the integers from the fractional numbers and begin to calculate the slope (gradient - rate of increase) and the intercept. Then, after it will print out the correct straight line equation. 
 
-PLEASE NOTE: this function will not work with natural logs such as e^x, or π and vice versa. However, future updates will solve these issues. 
+PLEASE NOTE: this function will not work with natural logs such as e^x, or π and vice versa. Furthermore, the result will always produce in the form of 'y=mx+c' so other straight-line forms such as ax+by+c = 0 will not be possible.  However, future updates will solve these issues. 
